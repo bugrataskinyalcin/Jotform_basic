@@ -1,0 +1,58 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "97f91fac4751273fd0e413b36f28f7a1",
+    "packages": [
+        {
+            "name": "jotform/jotform-api-php",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jotform/jotform-api-php.git",
+                "reference": "1abac89b83bbb46e82ab1474b6bf75b0be2b8fe6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jotform/jotform-api-php/zipball/1abac89b83bbb46e82ab1474b6bf75b0be2b8fe6",
+                "reference": "1abac89b83bbb46e82ab1474b6bf75b0be2b8fe6",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "JotForm.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0+"
+            ],
+            "homepage": "http://api.jotform.com",
+            "support": {
+                "email": "api@jotform.com",
+                "issues": "https://github.com/jotform/jotform-api-php/issues",
+                "source": "https://github.com/jotform/jotform-api-php/tree/master",
+                "wiki": "http://api.jotform.com"
+            },
+            "time": "2022-02-16T08:47:58+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "jotform/jotform-api-php": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
+}

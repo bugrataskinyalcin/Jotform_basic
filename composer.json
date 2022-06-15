@@ -1,0 +1,22 @@
+{
+    "name": "bugra/untitled",
+    "autoload": {
+        "psr-4": {
+            "Bugra\\Untitled\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bugrataskinyalcin",
+            "email": "bugrayalcin62@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {
+        "jotform/jotform-api-php": "dev-master"
+    }
+}
